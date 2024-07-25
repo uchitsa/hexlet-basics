@@ -50,6 +50,7 @@ const langToTabSizeMapping = {
   dart: 2,
   powershell: 2,
   dlang: 2,
+  scala: 2,
 };
 
 export const langToSpacesMapping = {

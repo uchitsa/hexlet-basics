@@ -31,6 +31,7 @@ import crystal from 'highlight.js/lib/languages/crystal';
 import dart from 'highlight.js/lib/languages/dart';
 import powershell from 'highlight.js/lib/languages/powershell';
 import d from 'highlight.js/lib/languages/d';
+import scala from 'highlight.js/lib/languages/scala';
 
 const langs = {
   ocaml,

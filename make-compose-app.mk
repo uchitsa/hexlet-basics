@@ -65,6 +65,7 @@ app-languages-load:
 	make app-language-load L='crystal'
 	make app-language-load L='powershell'
 	make app-language-load L='dlang'
+	make app-language-load L='scala'
 
 
 app-setup: app-install app-db-prepare app-setup-git-hooks app-languages-load

@@ -154,6 +154,7 @@ en:
         crystal_description: Crystal is a general-purpose object-oriented programming language designed and developed by Arie Borenzweig, Juan Weinerman, and Brian Cardiff.
         powershell_description: PowerShell is a cross-platform task automation solution that includes a command line shell, a scripting language, and a configuration management platform.
         dlang_description: D is a multi-paradigm, statically typed, compiled language. Has built-in error prevention - contracts and unittests
+        scala_description: Scala is a strong statically typed high-level general-purpose programming language that supports both object-oriented programming and functional programming.
 
       lessons:
         content:
